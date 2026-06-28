@@ -15,7 +15,7 @@ what factors influenced survival.
 ## Visualizations
 
 ![Survival Count](survival_count.png)
-![Survival by Gender](survival_by_gender.png)
+![Survival by Gender](Survival_by_gender.png)
 ![Survival by Class](survival_by_class.png)
 ![Age Distribution](age_distribution.png)
 ![Fare vs Age](fare_vs_age.png)
